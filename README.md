@@ -29,4 +29,4 @@ El autómata acepta una cadena si después de procesarla termina en el estado q2
 Desde la terminal:
 
 ```bash
-python AFD.py entrada.txt
+python AFD.py Entrada.txt
